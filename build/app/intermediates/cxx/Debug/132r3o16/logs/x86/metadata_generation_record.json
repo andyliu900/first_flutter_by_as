@@ -1,0 +1,41 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "/Users/randysu/EducationFolder/software/Flutter/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "profile|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027/Users/randysu/EducationFolder/software/Flutter/projects/first_flutter_by_as/android/app/.cxx/Debug/132r3o16/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file_": "/Users/randysu/EducationFolder/software/Flutter/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "profile|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/randysu/EducationFolder/software/Flutter/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt",
+    "tag_": "profile|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

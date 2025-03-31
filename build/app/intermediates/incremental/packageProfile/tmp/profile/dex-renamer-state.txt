@@ -1,0 +1,13 @@
+#Sun Mar 02 23:39:35 CST 2025
+base.0=/Users/randysu/EducationFolder/software/Flutter/projects/first_flutter_by_as/build/app/intermediates/dex/profile/mergeExtDexProfile/classes.dex
+base.1=/Users/randysu/EducationFolder/software/Flutter/projects/first_flutter_by_as/build/app/intermediates/dex/profile/mergeProjectDexProfile/0/classes.dex
+base.2=/Users/randysu/EducationFolder/software/Flutter/projects/first_flutter_by_as/build/app/intermediates/dex/profile/mergeProjectDexProfile/1/classes.dex
+base.3=/Users/randysu/EducationFolder/software/Flutter/projects/first_flutter_by_as/build/app/intermediates/dex/profile/mergeProjectDexProfile/5/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
